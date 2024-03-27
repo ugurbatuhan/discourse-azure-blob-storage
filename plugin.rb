@@ -8,7 +8,7 @@ require "file_store/base_store"
 
 # GEMS
 gem 'net-http-persistent', '4.0.1', { require: true, require_name: "net/http/persistent" }
-gem 'faraday_middleware', '1.2.0', { require: false }
+gem 'faraday_middleware', '2.9.0', { require: false }
 gem 'azure-storage-common', '2.0.4', { require: false }
 gem 'azure-storage-blob', '2.0.3', { require: false }
 
